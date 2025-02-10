@@ -1,6 +1,7 @@
                                                    - 👋 Hi, I’m @PachVsus
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Computational System Engineering
+-  Java, Python, C, C++, HTML and CSS.
 - 💞️ I’m currently studying university
 - 📫 You can reach me by writing to jv2600665@gmail.com (CURRENTLY NOT AVAILABLE TO REPLY)
 - 😄 Pronouns: him/he
